@@ -29,7 +29,7 @@ Here are some projects I've worked on during my studies.
 
 ## 📂 My Projects
 
-### 🏥 Eye Patient Management System
+### 🏥 [Eye Patient Management System](https://github.com/Jie0512/eyes-prj)
 
 An ASP.NET MVC project for managing ophthalmology patient information and preoperative orders.
 
